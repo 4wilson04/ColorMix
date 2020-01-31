@@ -1,8 +1,8 @@
 //
 //  AppDelegate.swift
-//  ColorMix
+//  Color Mix
 //
-//  Created by WOLF, CHRISTOPHER (LYHS) on 1/30/20.
+//  Created by WOLF, CHRISTOPHER (LYHS) on 1/31/20.
 //  Copyright © 2020 Ava Wilson. All rights reserved.
 //
 
